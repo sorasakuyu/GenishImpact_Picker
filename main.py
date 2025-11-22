@@ -47,5 +47,5 @@ def open_fullscreen(url):
 
 
 if __name__ == "__main__":
-    TARGET_URL = "https://dianm.teach.zhngjah.space/"
+    TARGET_URL = "https://dianm.edu.cynara.my/"
     open_fullscreen(TARGET_URL)
